@@ -1,0 +1,8 @@
+{
+  "name": "Ollama LLM Agent",
+  "content_in_root": false,
+  "domains": ["ollama_agent"],
+  "country": "US",
+  "homeassistant": "2025.5.2",
+  "render_readme": true
+}
