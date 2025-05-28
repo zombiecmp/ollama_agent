@@ -1,0 +1,10 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Setup Ollama LLM Agent",
+        "description": "No options needed, just click submit."
+      }
+    }
+  }
+}
